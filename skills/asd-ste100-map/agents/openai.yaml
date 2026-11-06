@@ -1,0 +1,6 @@
+interface:
+  display_name: "ASD-STE100 MAP"
+  short_description: "Map a full iteration in ASD-STE100 format."
+  default_prompt: "Use $asd-ste100-map to map this full iteration in ASD-STE100."
+policy:
+  allow_implicit_invocation: false

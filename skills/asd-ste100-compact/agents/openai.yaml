@@ -1,0 +1,6 @@
+interface:
+  display_name: "ASD-STE100 Compact"
+  short_description: "Condense ASD-STE100 output without dropping key details."
+  default_prompt: "Use $asd-ste100-compact to write this in compact ASD-STE100."
+policy:
+  allow_implicit_invocation: false

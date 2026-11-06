@@ -1,0 +1,6 @@
+interface:
+  display_name: "ASD-STE100"
+  short_description: "Write in ASD-STE100 style and preserve technical meaning."
+  default_prompt: "Use $asd-ste100 to format this response in ASD-STE100."
+policy:
+  allow_implicit_invocation: false
